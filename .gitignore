@@ -1,1 +1,5 @@
 node_modules/
+certbot/
+nginx/self-signed.conf
+nginx/ssl-params.conf
+text.txt
