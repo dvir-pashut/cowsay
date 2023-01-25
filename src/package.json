@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/node": "^10.12.11",
     "@types/express": "^4.16.0",
-    "@types/cheerio": "^0.22.10",
+    "@types/cheerio": "^0.22.31",
     "@types/compression": "^0.0.36",
     "@types/serve-favicon": "^2.2.30",
     "cheerio": "^1.0.0-rc.2",
